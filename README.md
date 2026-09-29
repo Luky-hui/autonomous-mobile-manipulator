@@ -1,6 +1,6 @@
-﻿# 🤖 ROBOTAC AIROBOTIC · Bobac 单臂机器人
+﻿# 🤖 ROS Autonomous Mobile Manipulator
 
-> 面向 ROBOTAC AIROBOTIC 全国总决赛 B 平台的自主导航、视觉识别与机械臂抓取系统。
+> 自主导航、视觉识别与机械臂抓取系统。
 
 <p align="left">
   <img src="https://img.shields.io/badge/ROS-Noetic-blue?logo=ros" />
