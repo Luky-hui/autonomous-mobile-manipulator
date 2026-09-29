@@ -1,6 +1,6 @@
 ﻿# 🤖 ROS Autonomous Mobile Manipulator
 
-> 自主导航、视觉识别与机械臂抓取系统。
+基于 ROS、RGB-D 视觉与 ECO65 机械臂的自主导航、目标定位、抓取与放置机器人系统。
 
 <p align="left">
   <img src="https://img.shields.io/badge/ROS-Noetic-blue?logo=ros" />
